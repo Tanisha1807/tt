@@ -5,7 +5,7 @@
 
 ## 🧠 Use Case
 
-Credit card companies and banks need a reliable system to evaluate whether an applicant is **eligible for credit approval**.  
+Credit card companies and banks need a reliable system to evaluate whether an applicant is **eligible for credit card approval**.  
 This project automates the process using a trained **Machine Learning model** and provides predictions via a clean **Streamlit frontend** and a **FastAPI backend**.
 
 ---

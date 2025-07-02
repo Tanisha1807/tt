@@ -50,8 +50,6 @@ This project automates the process using a trained **Machine Learning model** an
 
 ### 📊 Accuracy Comparison of ML Models
 
-Logistic Regression ~ 83%
-
-Random Forest Classifier ~ 91% (Best)
-
-Support Vector Machine ~ 85%
+- Logistic Regression ~ 83%
+- Random Forest Classifier ~ 91% (Best)
+- Support Vector Machine ~ 85%
